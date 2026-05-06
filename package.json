@@ -1,0 +1,9 @@
+{
+  "name": "one2b-investor-experience",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev:vite": "cd 01-vite-react && npm install && npm run dev",
+    "build:vite": "cd 01-vite-react && npm install && npm run build"
+  }
+}
